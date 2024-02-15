@@ -1,6 +1,7 @@
 /*
 
-Streams are objects that let you read data from a source or write data to a destination in continuous fashion.
+Streams are objects that let you read data from a source or write data to a destination 
+in continuous fashion.
 
 There are four type of stream in node js
 
