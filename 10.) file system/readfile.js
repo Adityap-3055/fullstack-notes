@@ -1,6 +1,7 @@
 // first we need to require the 'fs' and store it in a cons variable
 const fs = require('fs')
 
+// song.txt file is in the same directory
 const songs = fs.readFileSync('song.txt', 'utf8')
 
 console.log(songs);
